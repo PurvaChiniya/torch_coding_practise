@@ -1,0 +1,5 @@
+2025-12-14T10:12:35Z user_id=123 event=click latency_ms=120  model=v1
+2025-12-14T10:12:36Z user_id=123 event=answer latency_ms=450  model=v1
+2025-12-14T10:13:01Z user_id=456 event=click latency_ms=80   model=v2
+2025-12-14T10:13:03Z user_id=456 event=error latency_ms=300  model=v2
+2025-12-14T10:13:10Z user_id=123 event=click latency_ms=100  model=v2
