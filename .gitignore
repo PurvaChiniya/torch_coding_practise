@@ -6,3 +6,6 @@ __pycache__/
 .conda/
 *.pt
 uv.lock
+
+# Local study plan — keep private
+workflow_daily/daily_plan/
