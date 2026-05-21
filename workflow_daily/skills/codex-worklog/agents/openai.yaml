@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Worklog"
+  short_description: "Generate daily technical worklogs from Codex session logs."
+  default_prompt: "Generate a technical worklog for the most recent Codex session (and update the daily rollup). Use the scripts in this repo."

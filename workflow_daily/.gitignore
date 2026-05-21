@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Local state for the watcher
+.state/
+
+# Generated worklogs (keep local by default)
+summaries/
+
